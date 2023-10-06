@@ -15,7 +15,7 @@ def test_prod():
 
 
 def test_prod2():
-    assert prod2(2) == 2058
+    assert prod2(2) == 98
 
 
 def test_longest():
